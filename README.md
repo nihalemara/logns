@@ -1,2 +1,1 @@
-# logns
-login test
+$git checkout master
